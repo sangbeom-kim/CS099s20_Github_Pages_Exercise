@@ -374,8 +374,6 @@ function draw() {
     arc(mouthX, mouthY, 250, 250, PI * 1 / 4, PI * 3 / 4)
     pop()
   }
-  Text1.html('click to surprise')
-  Text2.html('scroll to change face color')
 }
 
 function mouseReleased() {
